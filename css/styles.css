@@ -1,0 +1,150 @@
+body {
+    text-align: center;
+    font-family: Helvetica, sans-serif;
+    margin: 0;
+}
+
+h1 {
+    font-size: 3.5rem;
+}
+
+
+header h2 {
+    font-size: 2rem;
+    text-decoration: none;
+    text-align: center;
+}
+
+
+header {
+    background-color: #f39d4a;
+    padding: 30px 20px 40px;
+}
+
+h2 {
+    font-size: 2rem;
+    text-decoration: underline;
+    text-decoration-color: red;
+    text-decoration-thickness: 2.5px;
+}
+
+h3 {
+    color: #d98e42;
+    font-size: 1.6rem;
+    margin-bottom: 0;
+}
+
+p {
+    font-size: 1.3rem;
+}
+
+div {
+    text-align: left;
+}
+
+img {
+    width: 100%;
+}
+
+figure {
+    margin: 0;
+}
+
+h2,
+p {
+    text-align: left;
+}
+
+span {
+    font-weight: bold;
+}
+
+hr {
+    margin-top: 49px;
+    background-color: #f39d4a;
+}
+
+.div1,
+.div2,
+.div3,
+.div4,
+.div5,
+.warning,
+.div6,
+footer{
+    width: 60%;
+    margin: auto;
+    margin-top: 50px;
+}
+
+.reason img {
+    width: 150px;
+    height: 150px;
+    border-radius: 40px;
+    float: left;
+    margin-right: 30px;
+}
+
+.reason p {
+    position: relative;
+    top: 30%;
+}
+
+.reason {
+    width: 50%;
+}
+
+
+.table_row,
+.measure {
+    display: flex;
+    margin-bottom: 10px;
+}
+
+.measure {
+    align-items: center;
+}
+
+.image img {
+    width: 200px;
+    height: 200px;
+    margin-right: 15px;
+    margin-top: 20px;
+}
+
+li {
+    font-size: 150%;
+}
+
+h4 span {
+    color: rgb(209, 15, 15);
+}
+
+li span {
+    font-size: 2rem;
+    color: rgb(209, 15, 15);
+}
+
+.information {
+    font-size: 1.2rem;
+    color: seagreen;
+    font-weight: 700;
+}
+
+.div4 {
+    font-size: 120%;
+}
+
+.warning img {
+    width: 200px;
+}
+
+.warning, .warning p {
+    text-align: center;
+}
+
+.warning p{
+    margin: auto;
+    font-size: 2rem;
+    color: rgb(209, 15, 15);
+}
